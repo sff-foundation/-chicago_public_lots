@@ -84,6 +84,6 @@ merged_layer = merged_parcels.explore(m=m,name='merged parcels')
 
 folium.LayerControl().add_to(m)
 
-m.save("docs/nl_merged_parcels.html")
+m.save("docs/index.html")
 
 m
